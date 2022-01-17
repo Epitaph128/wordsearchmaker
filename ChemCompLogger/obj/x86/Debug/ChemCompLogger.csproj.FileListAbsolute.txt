@@ -1,0 +1,50 @@
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\bin\x86\Debug\ChemCompLogger.exe.config
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\bin\x86\Debug\ChemCompLogger.exe
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\bin\x86\Debug\ChemCompLogger.pdb
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\bin\x86\Debug\EntityFramework.dll
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\bin\x86\Debug\EntityFramework.SqlServer.dll
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\bin\x86\Debug\System.Data.SQLite.dll
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\bin\x86\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\bin\x86\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\bin\x86\Debug\YamlDotNet.dll
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\bin\x86\Debug\EntityFramework.xml
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\bin\x86\Debug\EntityFramework.SqlServer.xml
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\bin\x86\Debug\System.Data.SQLite.xml
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\bin\x86\Debug\System.Data.SQLite.dll.config
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\bin\x86\Debug\YamlDotNet.xml
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\obj\x86\Debug\MainWindow.baml
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\obj\x86\Debug\App.g.cs
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\obj\x86\Debug\ChemCompLogger_Content.g.cs
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\obj\x86\Debug\ChemCompLogger_MarkupCompile.cache
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\obj\x86\Debug\ChemCompLogger_MarkupCompile.lref
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\obj\x86\Debug\App.baml
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\obj\x86\Debug\ChemCompLogger.g.resources
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\obj\x86\Debug\ChemCompLogger.Properties.Resources.resources
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\obj\x86\Debug\ChemCompLogger.csproj.GenerateResource.cache
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\obj\x86\Debug\ChemCompLogger.csproj.CopyComplete
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\obj\x86\Debug\ChemCompLogger.exe
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\obj\x86\Debug\ChemCompLogger.pdb
+C:\Users\Walte\Desktop\WordSearchMaker v0.2\ChemCompLogger\bin\x86\Debug\ChemCompLogger.exe.config
+C:\Users\Walte\Desktop\WordSearchMaker v0.2\ChemCompLogger\bin\x86\Debug\ChemCompLogger.exe
+C:\Users\Walte\Desktop\WordSearchMaker v0.2\ChemCompLogger\bin\x86\Debug\ChemCompLogger.pdb
+C:\Users\Walte\Desktop\WordSearchMaker v0.2\ChemCompLogger\bin\x86\Debug\EntityFramework.dll
+C:\Users\Walte\Desktop\WordSearchMaker v0.2\ChemCompLogger\bin\x86\Debug\EntityFramework.SqlServer.dll
+C:\Users\Walte\Desktop\WordSearchMaker v0.2\ChemCompLogger\bin\x86\Debug\YamlDotNet.dll
+C:\Users\Walte\Desktop\WordSearchMaker v0.2\ChemCompLogger\bin\x86\Debug\EntityFramework.xml
+C:\Users\Walte\Desktop\WordSearchMaker v0.2\ChemCompLogger\bin\x86\Debug\EntityFramework.SqlServer.xml
+C:\Users\Walte\Desktop\WordSearchMaker v0.2\ChemCompLogger\bin\x86\Debug\YamlDotNet.xml
+C:\Users\Walte\Desktop\WordSearchMaker v0.2\ChemCompLogger\obj\x86\Debug\MainWindow.baml
+C:\Users\Walte\Desktop\WordSearchMaker v0.2\ChemCompLogger\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Walte\Desktop\WordSearchMaker v0.2\ChemCompLogger\obj\x86\Debug\App.g.cs
+C:\Users\Walte\Desktop\WordSearchMaker v0.2\ChemCompLogger\obj\x86\Debug\ChemCompLogger_Content.g.cs
+C:\Users\Walte\Desktop\WordSearchMaker v0.2\ChemCompLogger\obj\x86\Debug\ChemCompLogger_MarkupCompile.cache
+C:\Users\Walte\Desktop\WordSearchMaker v0.2\ChemCompLogger\obj\x86\Debug\ChemCompLogger_MarkupCompile.lref
+C:\Users\Walte\Desktop\WordSearchMaker v0.2\ChemCompLogger\obj\x86\Debug\App.baml
+C:\Users\Walte\Desktop\WordSearchMaker v0.2\ChemCompLogger\obj\x86\Debug\ChemCompLogger.g.resources
+C:\Users\Walte\Desktop\WordSearchMaker v0.2\ChemCompLogger\obj\x86\Debug\ChemCompLogger.Properties.Resources.resources
+C:\Users\Walte\Desktop\WordSearchMaker v0.2\ChemCompLogger\obj\x86\Debug\ChemCompLogger.csproj.GenerateResource.cache
+C:\Users\Walte\Desktop\WordSearchMaker v0.2\ChemCompLogger\obj\x86\Debug\ChemCompLogger.csproj.CopyComplete
+C:\Users\Walte\Desktop\WordSearchMaker v0.2\ChemCompLogger\obj\x86\Debug\ChemCompLogger.exe
+C:\Users\Walte\Desktop\WordSearchMaker v0.2\ChemCompLogger\obj\x86\Debug\ChemCompLogger.pdb
+C:\Users\Walte\Desktop\WordSearchMaker v0.2\ChemCompLogger\obj\x86\Debug\ChemCompLogger.csprojAssemblyReference.cache

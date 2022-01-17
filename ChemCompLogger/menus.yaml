@@ -1,0 +1,72 @@
+---
+art:
+- artNo: 0
+  text: >
+    :--:--:--:--:--:--:
+pages:
+# universal intro page
+- pageName: main_menu
+  textOpen: -= Main Menu =-
+  buttons:
+    - num: 0
+      go: word_bank
+      text: |
+        Manage Word Bank
+      textClick: -= Manage Word Bank =-
+	- num: 1
+	  action: create_puzzle
+	  text: Create Puzzle
+    - num: 2
+      action: add_puzzles
+      text: Add Unique Puzzles
+    - num: 3
+      action: remove_puzzles
+      text: Remove Unique Puzzles
+    - num: 4
+      action: toggle_reverse_words
+      text: |
+        Allow Reverse Words
+        (Off)
+    - num: 5
+      action: toggle_overlap_percentage
+      text: |
+        Overlap Percentage
+        (~50%)
+    - num: 6
+      action: toggle_dimensions
+      text: |
+        Puzzle Dimensions
+        (24x16)
+	- num: 7
+	  action: toggle_log_panel
+	  text: |
+	    Toggle Info Panel
+- pageName: word_bank
+  textOpen: >-
+    Here the user can manage words
+    to be used to create the word search puzzle.
+  buttons:
+    - num: 6
+      action: exit_word_bank
+      text: |
+        Exit Manage Word Bank
+        (Save/Discard Changes)
+    - num: 7
+      action: add_word
+      text: |
+        Add New
+        Word
+- pageName: wordbank_save_discard
+  textOpen: >-
+    Changes have occurred to the subjective moods table. Please
+    make a selection to confirm changes before they are committed
+    to the database.
+  buttons:
+    - num: 6
+      action: save_wordbank
+      text: Save Changes
+      textClick: Saved changes to word bank table.
+    - num: 7
+      action: discard_wordbank
+      text: Discard Changes
+      textClick: Reverted changes to word bank table.

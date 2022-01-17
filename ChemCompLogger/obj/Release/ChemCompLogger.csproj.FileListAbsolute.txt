@@ -1,0 +1,137 @@
+C:\Users\Epitaph64\Desktop\ChemCompLogger\ChemCompLogger\bin\Release\ChemCompLogger.exe.config
+C:\Users\Epitaph64\Desktop\ChemCompLogger\ChemCompLogger\bin\Release\ChemCompLogger.exe
+C:\Users\Epitaph64\Desktop\ChemCompLogger\ChemCompLogger\bin\Release\ChemCompLogger.pdb
+C:\Users\Epitaph64\Desktop\ChemCompLogger\ChemCompLogger\bin\Release\EntityFramework.dll
+C:\Users\Epitaph64\Desktop\ChemCompLogger\ChemCompLogger\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Epitaph64\Desktop\ChemCompLogger\ChemCompLogger\bin\Release\System.Data.SQLite.dll
+C:\Users\Epitaph64\Desktop\ChemCompLogger\ChemCompLogger\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Epitaph64\Desktop\ChemCompLogger\ChemCompLogger\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Epitaph64\Desktop\ChemCompLogger\ChemCompLogger\bin\Release\YamlDotNet.dll
+C:\Users\Epitaph64\Desktop\ChemCompLogger\ChemCompLogger\bin\Release\EntityFramework.xml
+C:\Users\Epitaph64\Desktop\ChemCompLogger\ChemCompLogger\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Epitaph64\Desktop\ChemCompLogger\ChemCompLogger\bin\Release\System.Data.SQLite.xml
+C:\Users\Epitaph64\Desktop\ChemCompLogger\ChemCompLogger\bin\Release\System.Data.SQLite.dll.config
+C:\Users\Epitaph64\Desktop\ChemCompLogger\ChemCompLogger\bin\Release\YamlDotNet.xml
+C:\Users\Epitaph64\Desktop\ChemCompLogger\ChemCompLogger\obj\Release\ChemCompLogger.csprojAssemblyReference.cache
+C:\Users\Epitaph64\Desktop\ChemCompLogger\ChemCompLogger\obj\Release\MainWindow.baml
+C:\Users\Epitaph64\Desktop\ChemCompLogger\ChemCompLogger\obj\Release\MainWindow.g.cs
+C:\Users\Epitaph64\Desktop\ChemCompLogger\ChemCompLogger\obj\Release\App.g.cs
+C:\Users\Epitaph64\Desktop\ChemCompLogger\ChemCompLogger\obj\Release\ChemCompLogger_MarkupCompile.cache
+C:\Users\Epitaph64\Desktop\ChemCompLogger\ChemCompLogger\obj\Release\ChemCompLogger_MarkupCompile.lref
+C:\Users\Epitaph64\Desktop\ChemCompLogger\ChemCompLogger\obj\Release\App.baml
+C:\Users\Epitaph64\Desktop\ChemCompLogger\ChemCompLogger\obj\Release\ChemCompLogger.g.resources
+C:\Users\Epitaph64\Desktop\ChemCompLogger\ChemCompLogger\obj\Release\ChemCompLogger.Properties.Resources.resources
+C:\Users\Epitaph64\Desktop\ChemCompLogger\ChemCompLogger\obj\Release\ChemCompLogger.csproj.GenerateResource.cache
+C:\Users\Epitaph64\Desktop\ChemCompLogger\ChemCompLogger\obj\Release\ChemCompLogger.csproj.CoreCompileInputs.cache
+C:\Users\Epitaph64\Desktop\ChemCompLogger\ChemCompLogger\obj\Release\ChemCompLogger.csproj.CopyComplete
+C:\Users\Epitaph64\Desktop\ChemCompLogger\ChemCompLogger\obj\Release\ChemCompLogger.exe
+C:\Users\Epitaph64\Desktop\ChemCompLogger\ChemCompLogger\obj\Release\ChemCompLogger.pdb
+C:\Users\Epitaph64\Desktop\nootracker_resources\ChemCompLogger\ChemCompLogger\bin\Release\ChemCompLogger.exe.config
+C:\Users\Epitaph64\Desktop\nootracker_resources\ChemCompLogger\ChemCompLogger\bin\Release\ChemCompLogger.exe
+C:\Users\Epitaph64\Desktop\nootracker_resources\ChemCompLogger\ChemCompLogger\bin\Release\ChemCompLogger.pdb
+C:\Users\Epitaph64\Desktop\nootracker_resources\ChemCompLogger\ChemCompLogger\bin\Release\EntityFramework.dll
+C:\Users\Epitaph64\Desktop\nootracker_resources\ChemCompLogger\ChemCompLogger\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Epitaph64\Desktop\nootracker_resources\ChemCompLogger\ChemCompLogger\bin\Release\System.Data.SQLite.dll
+C:\Users\Epitaph64\Desktop\nootracker_resources\ChemCompLogger\ChemCompLogger\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Epitaph64\Desktop\nootracker_resources\ChemCompLogger\ChemCompLogger\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Epitaph64\Desktop\nootracker_resources\ChemCompLogger\ChemCompLogger\bin\Release\YamlDotNet.dll
+C:\Users\Epitaph64\Desktop\nootracker_resources\ChemCompLogger\ChemCompLogger\bin\Release\EntityFramework.xml
+C:\Users\Epitaph64\Desktop\nootracker_resources\ChemCompLogger\ChemCompLogger\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Epitaph64\Desktop\nootracker_resources\ChemCompLogger\ChemCompLogger\bin\Release\System.Data.SQLite.xml
+C:\Users\Epitaph64\Desktop\nootracker_resources\ChemCompLogger\ChemCompLogger\bin\Release\System.Data.SQLite.dll.config
+C:\Users\Epitaph64\Desktop\nootracker_resources\ChemCompLogger\ChemCompLogger\bin\Release\YamlDotNet.xml
+C:\Users\Epitaph64\Desktop\nootracker_resources\ChemCompLogger\ChemCompLogger\obj\Release\ChemCompLogger.csprojAssemblyReference.cache
+C:\Users\Epitaph64\Desktop\nootracker_resources\ChemCompLogger\ChemCompLogger\obj\Release\MainWindow.baml
+C:\Users\Epitaph64\Desktop\nootracker_resources\ChemCompLogger\ChemCompLogger\obj\Release\MainWindow.g.cs
+C:\Users\Epitaph64\Desktop\nootracker_resources\ChemCompLogger\ChemCompLogger\obj\Release\App.g.cs
+C:\Users\Epitaph64\Desktop\nootracker_resources\ChemCompLogger\ChemCompLogger\obj\Release\ChemCompLogger_MarkupCompile.cache
+C:\Users\Epitaph64\Desktop\nootracker_resources\ChemCompLogger\ChemCompLogger\obj\Release\ChemCompLogger_MarkupCompile.lref
+C:\Users\Epitaph64\Desktop\nootracker_resources\ChemCompLogger\ChemCompLogger\obj\Release\App.baml
+C:\Users\Epitaph64\Desktop\nootracker_resources\ChemCompLogger\ChemCompLogger\obj\Release\ChemCompLogger.g.resources
+C:\Users\Epitaph64\Desktop\nootracker_resources\ChemCompLogger\ChemCompLogger\obj\Release\ChemCompLogger.Properties.Resources.resources
+C:\Users\Epitaph64\Desktop\nootracker_resources\ChemCompLogger\ChemCompLogger\obj\Release\ChemCompLogger.csproj.GenerateResource.cache
+C:\Users\Epitaph64\Desktop\nootracker_resources\ChemCompLogger\ChemCompLogger\obj\Release\ChemCompLogger.csproj.CoreCompileInputs.cache
+C:\Users\Epitaph64\Desktop\nootracker_resources\ChemCompLogger\ChemCompLogger\obj\Release\ChemCompLogger.csproj.CopyComplete
+C:\Users\Epitaph64\Desktop\nootracker_resources\ChemCompLogger\ChemCompLogger\obj\Release\ChemCompLogger.exe
+C:\Users\Epitaph64\Desktop\nootracker_resources\ChemCompLogger\ChemCompLogger\obj\Release\ChemCompLogger.pdb
+C:\Users\Walte\Desktop\MoodLogger\ChemCompLogger\bin\Release\ChemCompLogger.exe.config
+C:\Users\Walte\Desktop\MoodLogger\ChemCompLogger\bin\Release\ChemCompLogger.exe
+C:\Users\Walte\Desktop\MoodLogger\ChemCompLogger\bin\Release\ChemCompLogger.pdb
+C:\Users\Walte\Desktop\MoodLogger\ChemCompLogger\bin\Release\EntityFramework.dll
+C:\Users\Walte\Desktop\MoodLogger\ChemCompLogger\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Walte\Desktop\MoodLogger\ChemCompLogger\bin\Release\System.Data.SQLite.dll
+C:\Users\Walte\Desktop\MoodLogger\ChemCompLogger\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Walte\Desktop\MoodLogger\ChemCompLogger\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Walte\Desktop\MoodLogger\ChemCompLogger\bin\Release\YamlDotNet.dll
+C:\Users\Walte\Desktop\MoodLogger\ChemCompLogger\bin\Release\EntityFramework.xml
+C:\Users\Walte\Desktop\MoodLogger\ChemCompLogger\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Walte\Desktop\MoodLogger\ChemCompLogger\bin\Release\System.Data.SQLite.xml
+C:\Users\Walte\Desktop\MoodLogger\ChemCompLogger\bin\Release\System.Data.SQLite.dll.config
+C:\Users\Walte\Desktop\MoodLogger\ChemCompLogger\bin\Release\YamlDotNet.xml
+C:\Users\Walte\Desktop\MoodLogger\ChemCompLogger\obj\Release\MainWindow.baml
+C:\Users\Walte\Desktop\MoodLogger\ChemCompLogger\obj\Release\MainWindow.g.cs
+C:\Users\Walte\Desktop\MoodLogger\ChemCompLogger\obj\Release\App.g.cs
+C:\Users\Walte\Desktop\MoodLogger\ChemCompLogger\obj\Release\ChemCompLogger_MarkupCompile.cache
+C:\Users\Walte\Desktop\MoodLogger\ChemCompLogger\obj\Release\ChemCompLogger_MarkupCompile.lref
+C:\Users\Walte\Desktop\MoodLogger\ChemCompLogger\obj\Release\App.baml
+C:\Users\Walte\Desktop\MoodLogger\ChemCompLogger\obj\Release\ChemCompLogger.g.resources
+C:\Users\Walte\Desktop\MoodLogger\ChemCompLogger\obj\Release\ChemCompLogger.Properties.Resources.resources
+C:\Users\Walte\Desktop\MoodLogger\ChemCompLogger\obj\Release\ChemCompLogger.csproj.GenerateResource.cache
+C:\Users\Walte\Desktop\MoodLogger\ChemCompLogger\obj\Release\ChemCompLogger.csproj.CoreCompileInputs.cache
+C:\Users\Walte\Desktop\MoodLogger\ChemCompLogger\obj\Release\ChemCompLogger.csproj.CopyComplete
+C:\Users\Walte\Desktop\MoodLogger\ChemCompLogger\obj\Release\ChemCompLogger.exe
+C:\Users\Walte\Desktop\MoodLogger\ChemCompLogger\obj\Release\ChemCompLogger.pdb
+C:\Users\Walte\Desktop\MoodLogger\ChemCompLogger\obj\Release\ChemCompLogger.csprojAssemblyReference.cache
+C:\Users\Walte\Desktop\MoodLogger\ChemCompLogger\obj\Release\ChemCompLogger_Content.g.cs
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\bin\Release\ChemCompLogger.exe.config
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\bin\Release\ChemCompLogger.exe
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\bin\Release\ChemCompLogger.pdb
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\bin\Release\EntityFramework.dll
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\bin\Release\System.Data.SQLite.dll
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\bin\Release\YamlDotNet.dll
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\bin\Release\EntityFramework.xml
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\bin\Release\System.Data.SQLite.xml
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\bin\Release\System.Data.SQLite.dll.config
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\bin\Release\YamlDotNet.xml
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\obj\Release\MainWindow.baml
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\obj\Release\MainWindow.g.cs
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\obj\Release\App.g.cs
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\obj\Release\ChemCompLogger_Content.g.cs
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\obj\Release\ChemCompLogger_MarkupCompile.cache
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\obj\Release\ChemCompLogger_MarkupCompile.lref
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\obj\Release\App.baml
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\obj\Release\ChemCompLogger.g.resources
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\obj\Release\ChemCompLogger.Properties.Resources.resources
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\obj\Release\ChemCompLogger.csproj.GenerateResource.cache
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\obj\Release\ChemCompLogger.csproj.CopyComplete
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\obj\Release\ChemCompLogger.exe
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\obj\Release\ChemCompLogger.pdb
+C:\Users\Walte\Desktop\WordSearchMaker\ChemCompLogger\obj\Release\ChemCompLogger.csprojAssemblyReference.cache
+C:\Users\Epitaph64\Desktop\laptopcoding\WordSearchMaker v0.2\ChemCompLogger\bin\Release\ChemCompLogger.exe.config
+C:\Users\Epitaph64\Desktop\laptopcoding\WordSearchMaker v0.2\ChemCompLogger\bin\Release\ChemCompLogger.exe
+C:\Users\Epitaph64\Desktop\laptopcoding\WordSearchMaker v0.2\ChemCompLogger\bin\Release\ChemCompLogger.pdb
+C:\Users\Epitaph64\Desktop\laptopcoding\WordSearchMaker v0.2\ChemCompLogger\bin\Release\EntityFramework.dll
+C:\Users\Epitaph64\Desktop\laptopcoding\WordSearchMaker v0.2\ChemCompLogger\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Epitaph64\Desktop\laptopcoding\WordSearchMaker v0.2\ChemCompLogger\bin\Release\YamlDotNet.dll
+C:\Users\Epitaph64\Desktop\laptopcoding\WordSearchMaker v0.2\ChemCompLogger\bin\Release\EntityFramework.xml
+C:\Users\Epitaph64\Desktop\laptopcoding\WordSearchMaker v0.2\ChemCompLogger\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Epitaph64\Desktop\laptopcoding\WordSearchMaker v0.2\ChemCompLogger\bin\Release\YamlDotNet.xml
+C:\Users\Epitaph64\Desktop\laptopcoding\WordSearchMaker v0.2\ChemCompLogger\obj\Release\ChemCompLogger.csprojAssemblyReference.cache
+C:\Users\Epitaph64\Desktop\laptopcoding\WordSearchMaker v0.2\ChemCompLogger\obj\Release\MainWindow.baml
+C:\Users\Epitaph64\Desktop\laptopcoding\WordSearchMaker v0.2\ChemCompLogger\obj\Release\MainWindow.g.cs
+C:\Users\Epitaph64\Desktop\laptopcoding\WordSearchMaker v0.2\ChemCompLogger\obj\Release\App.g.cs
+C:\Users\Epitaph64\Desktop\laptopcoding\WordSearchMaker v0.2\ChemCompLogger\obj\Release\ChemCompLogger_Content.g.cs
+C:\Users\Epitaph64\Desktop\laptopcoding\WordSearchMaker v0.2\ChemCompLogger\obj\Release\ChemCompLogger_MarkupCompile.cache
+C:\Users\Epitaph64\Desktop\laptopcoding\WordSearchMaker v0.2\ChemCompLogger\obj\Release\ChemCompLogger_MarkupCompile.lref
+C:\Users\Epitaph64\Desktop\laptopcoding\WordSearchMaker v0.2\ChemCompLogger\obj\Release\App.baml
+C:\Users\Epitaph64\Desktop\laptopcoding\WordSearchMaker v0.2\ChemCompLogger\obj\Release\ChemCompLogger.g.resources
+C:\Users\Epitaph64\Desktop\laptopcoding\WordSearchMaker v0.2\ChemCompLogger\obj\Release\ChemCompLogger.Properties.Resources.resources
+C:\Users\Epitaph64\Desktop\laptopcoding\WordSearchMaker v0.2\ChemCompLogger\obj\Release\ChemCompLogger.csproj.GenerateResource.cache
+C:\Users\Epitaph64\Desktop\laptopcoding\WordSearchMaker v0.2\ChemCompLogger\obj\Release\ChemCompLogger.csproj.CoreCompileInputs.cache
+C:\Users\Epitaph64\Desktop\laptopcoding\WordSearchMaker v0.2\ChemCompLogger\obj\Release\ChemCompLogger.csproj.CopyComplete
+C:\Users\Epitaph64\Desktop\laptopcoding\WordSearchMaker v0.2\ChemCompLogger\obj\Release\ChemCompLogger.exe
+C:\Users\Epitaph64\Desktop\laptopcoding\WordSearchMaker v0.2\ChemCompLogger\obj\Release\ChemCompLogger.pdb

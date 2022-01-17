@@ -1,0 +1,108 @@
+﻿<Window x:Class="ChemCompLogger.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="400"
+        MinHeight="300" MinWidth="400">
+    <Grid
+        Name="WindowGrid"
+        Background="#051A38">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <!--
+        <Menu IsMainMenu="True">
+            <MenuItem Header="_File">
+                <MenuItem Header="_Open..." Click="clickFileOpen"/>
+                <Separator />
+                <MenuItem Header="_About" Click="clickFileAbout"/>
+            </MenuItem>
+        </Menu>
+        -->
+
+        <Grid Grid.Row="1"
+            Name="MasterGrid">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid
+                Name="ButtonGrid"
+                Grid.Column="0"
+                Margin="8 8 8 32"
+                Panel.ZIndex="8">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                </Grid.RowDefinitions>
+            </Grid>
+
+            <Label
+                Name="tableHeader"
+                Margin="8,0,8,8"
+                Grid.Column="0"
+                HorizontalAlignment="Left"
+                Visibility="Hidden"
+                Foreground="White"
+                FontSize="24">
+            </Label>
+
+            <DataGrid
+                Name="wordBankDataGrid"
+                Margin="8,32,8,8"
+                Grid.Column="0"
+                ColumnWidth="*"
+                HorizontalScrollBarVisibility="Hidden"
+                MaxHeight="{Binding RelativeSource={RelativeSource FindAncestor,
+                    AncestorType={x:Type Grid}},
+                    Path=RowDefinitions[0].ActualHeight
+                }"
+                HorizontalAlignment="Left"
+                Visibility="Hidden"
+                VerticalAlignment="Top"
+                CanUserAddRows="False"
+                CanUserResizeRows="False"
+                Panel.ZIndex="8"
+                AutoGenerateColumns="False"
+                RowHeaderWidth="16">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Binding="{Binding Path=Text}" Header="Words">
+                    </DataGridTextColumn>
+                </DataGrid.Columns>
+                <DataGrid.ContextMenu>
+                    <ContextMenu>
+                        <MenuItem Header="Delete" Click="WordBank_Delete" />
+                    </ContextMenu>
+                </DataGrid.ContextMenu>
+            </DataGrid>
+
+            <TextBox
+                x:Name="infoLogPanel"
+                Height="Auto"
+                VerticalScrollBarVisibility="Hidden"
+                Grid.Column="1"
+                TextWrapping="Wrap"
+                AcceptsReturn="True"
+                IsReadOnly="True"
+                FontSize="16"
+                FontFamily="Consolas"
+                Background="#051A38"
+                Foreground="#A6B5CB"
+                BorderThickness="0"
+                MaxLines="200">
+            </TextBox>
+            <Label x:Name="PuzzleTitleLabel" Content="Puzzle Title:" HorizontalAlignment="Left" Margin="10,242,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.503,0.47" Width="95" Foreground="{DynamicResource {x:Static SystemColors.WindowBrushKey}}" Panel.ZIndex="-1" FontSize="14"/>
+            <TextBox x:Name="PuzzleTitleTextBox" HorizontalAlignment="Left" Height="27" Margin="94,247,0,-3.6" TextWrapping="Wrap" VerticalAlignment="Top" Width="256" FontSize="14" Grid.ColumnSpan="2" Text="Word Search Puzzle"/>
+        </Grid>
+    </Grid>
+</Window>
